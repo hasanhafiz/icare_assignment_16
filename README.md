@@ -15,3 +15,9 @@ Note: The system design diagram doesn't need to be very polished or professional
 ## Note
 
 - Since this is inter country app, so system design does not need CDN for various files
+
+## View Design File
+
+Either click attached png file or click this link to view system deisgn details
+
+- https://github.com/hasanhafiz/icare_assignment_16/blob/main/assignment_16_system_design_by_hasan_hafiz_v2.png
